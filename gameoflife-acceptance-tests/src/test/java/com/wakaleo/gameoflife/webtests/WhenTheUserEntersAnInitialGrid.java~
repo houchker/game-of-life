@@ -34,7 +34,6 @@ public class WhenTheUserEntersAnInitialGrid {
             {".", ".", "."}};
 
 
-
     @Test
     public void userShouldBeAbleChooseToCreateANewGameOnTheHomePage() {
         player.opens_home_page();
